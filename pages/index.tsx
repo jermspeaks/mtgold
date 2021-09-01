@@ -38,7 +38,7 @@ const Home: NextPage = () => {
         </nav>
 
         <div className="container mx-auto mt-8 md:mt-0 md:space-x-10 md:grid grid-cols-3 justify-center md:py-40">
-          <div className="grid justify-center items-center order-1 col-span-1">
+          {/* <div className="grid justify-center items-center order-1 col-span-1">
             <Image
               className="lg:h-80 md:h-64 h-40 rounded-full"
               src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde"
@@ -46,24 +46,22 @@ const Home: NextPage = () => {
               width={100}
               height={100}
             />
-          </div>
+          </div> */}
           <div className="mt-8 md:mt-0 lg:justify-end col-span-2">
             <h1 className="text-4xl text-gray-800 text-center md:text-left font-bold mb-6">
               👋 I am Jeremy, a Creative Technologist
             </h1>
             <p className="text-xl text-gray-800 text-center md:text-left">
-              Amet minim mollit non deserunt ullamco est sit aliqua dolor do
-              amet sint. Velit officia consequat duis enim velit mollit.
-              Exercitation veniam consequat sunt nostrud amet.
+              I am still setting up this website. Feel free to view my main website at <a href="https://craftbyzen.com">Craft By Zen</a>.
             </p>
-            <button className="block mt-8 mx-auto md:mx-0 text-2xl py-3 px-6 text-red-50 font-semibold rounded bg-red-400">
+            {/* <button className="block mt-8 mx-auto md:mx-0 text-2xl py-3 px-6 text-red-50 font-semibold rounded bg-red-400">
               Download Resume
-            </button>
+            </button> */}
           </div>
         </div>
       </header>
 
-      <div className="md:gap-4 p-6 bg-blue-50 md:grid">
+      {/* <div className="md:gap-4 p-6 bg-blue-50 md:grid">
         <div className="grid grid-cols-2 justify-between lg:px-40 md:mb-4">
           <h1 className="justify-start md:text-left text-2xl">Recent posts</h1>
           <p className="hidden md:block text-right text-2xl">View all</p>
@@ -113,9 +111,9 @@ const Home: NextPage = () => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
 
-        <div className="mt-6 p-4 bg-white px-6">
+        {/* <div className="mt-6 p-4 bg-white px-6">
           <div className="border-b pb-6">
             <h1 className="mt-2 mb-6 text-center text-xl">Featured works</h1>
             <div className="md:grid grid-cols-2 gap-6">
@@ -143,7 +141,7 @@ const Home: NextPage = () => {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
       <footer className="bg-white">
         <div className="flex mt-20 px-10 items-center justify-around max-md">
           <span>
