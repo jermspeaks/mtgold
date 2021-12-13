@@ -53,54 +53,54 @@ const HolidayCards2021: NextPage = () => {
               For those of you new to my holiday tradition, I will give you a
               holiday card in exchange for a charity donation. ✉️ This year, I
               am extending donations to friends of friends! If you can find one
-              other person to donate to my cause, I'll give you a special
+              other person to donate to my cause, I&#39;ll give you a special
               shout-out, as well as an extra bonus in my gifts to you this year!
               👬👭👫
             </p>
             <br />
             <p>
-              This year's cards will be &quot;found&quot; postcards. For over a
-              decade, I've been collecting postcards from around the world. And
+              This year&#39;s cards will be &quot;found&quot; postcards. For over a
+              decade, I&#39;ve been collecting postcards from around the world. And
               as sad as it might be to part with them, in its place is found
-              art. So I'll be making personalized cards for each and every one
+              art. So I&#39;ll be making personalized cards for each and every one
               of you who donates.
             </p>
             <br />
             <h2 className="text-2xl text-gray-800 text-center md:text-left font-bold mb-6">Something Different</h2>
             <br />
             <p>
-              Let's take a step back and reflect on what a year it's been. We
+              Let&#39;s take a step back and reflect on what a year it&#39;s been. We
               entered this year hopeful for a smooth vaccine rollout. There was
               a glimmer this year that we might be able to turn things around.
               We did, but things are still not back to our original
-              &quot;normal&quot;, and there's been talk of a new normal with
-              mask wearing and potential annual booster shots. And it's easy to
+              &quot;normal&quot;, and there&#39;s been talk of a new normal with
+              mask wearing and potential annual booster shots. And it&#39;s easy to
               get pessimistic about the Omicron variant, but you have to
-              remember how far we've gone since the beginning of last year.
+              remember how far we&#39;ve gone since the beginning of last year.
             </p>
             <br />
             <p>
-              Personally, this year has been a mix of love and loss. I've been
-              grieving over the loss of someone special to me, and I've received
+              Personally, this year has been a mix of love and loss. I&#39;ve been
+              grieving over the loss of someone special to me, and I&#39;ve received
               a lot of support from family and friends. To get me through it,
-              I've been on a music binge. Here's another challenge: share with
-              me a song that helps you through the tough times this year. I'll
+              I&#39;ve been on a music binge. Here&#39;s another challenge: share with
+              me a song that helps you through the tough times this year. I&#39;ll
               compile it and release it as a playlist for you all to listen to.
             </p>
             <br />
             <h2 className="text-2xl text-gray-800 text-center md:text-left font-bold mb-6">Charity</h2>
             <br />
             <p>
-              This year marked the 5th anniversary of my friend Jonathan's
+              This year marked the 5th anniversary of my friend Jonathan&#39;s
               suicide. It is still shocking to find out he took his own life,
-              and the ongoing process to process through grief. That's why this
-              year I've decided my charity of choice is the{' '}
+              and the ongoing process to process through grief. That&#39;s why this
+              year I&#39;ve decided my charity of choice is the{' '}
               <a href="https://afsp.org/">
                 American Foundation for Suicide Prevention
               </a>
               . AFSP has resources for suicide prevention as well as helping
-              through who have lost close ones to suicide. It's the service I
-              needed at the time, and I think it's time to pay it forward. ☮️ 🌎
+              through who have lost close ones to suicide. It&#39;s the service I
+              needed at the time, and I think it&#39;s time to pay it forward. ☮️ 🌎
             </p>
             <br />
             <h2 className="text-2xl text-gray-800 text-center md:text-left font-bold mb-6">

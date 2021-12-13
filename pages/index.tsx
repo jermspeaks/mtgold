@@ -22,7 +22,7 @@ const Home: NextPage = () => {
             </li>
             <Link
               href={{
-                pathname: '/holiday-cards-2021',
+                pathname: '/holidays',
               }}
             >
               <a>Holiday Cards 2021</a>

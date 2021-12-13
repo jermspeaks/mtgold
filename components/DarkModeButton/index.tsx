@@ -1,6 +1,6 @@
 import { useTheme } from 'next-themes';
 
-const DarkModeButton = () => {
+const DarkModeButton: React.FC = () => {
   const { theme, setTheme } = useTheme();
   return (
     <button
