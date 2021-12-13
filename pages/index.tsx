@@ -1,6 +1,8 @@
 import type { NextPage } from 'next';
 import Head from 'next/head';
 import Image from 'next/image';
+import Link from 'next/link';
+
 import styles from '../styles/Home.module.css';
 
 const Home: NextPage = () => {
@@ -18,6 +20,13 @@ const Home: NextPage = () => {
             <li>
               <a href="#">Contact</a>
             </li>
+            <Link
+              href={{
+                pathname: '/holiday-cards-2021',
+              }}
+            >
+              <a>Holiday Cards 2021</a>
+            </Link>
           </ul>
           <div className="md:hidden">
             <svg
@@ -52,7 +61,8 @@ const Home: NextPage = () => {
               👋 I am Jeremy, a Creative Technologist
             </h1>
             <p className="text-xl text-gray-800 text-center md:text-left">
-              I am still setting up this website. Feel free to view my main website at <a href="https://craftbyzen.com">Craft By Zen</a>.
+              I am still setting up this website. Feel free to view my main
+              website at <a href="https://craftbyzen.com">Craft By Zen</a>.
             </p>
             {/* <button className="block mt-8 mx-auto md:mx-0 text-2xl py-3 px-6 text-red-50 font-semibold rounded bg-red-400">
               Download Resume
@@ -113,7 +123,7 @@ const Home: NextPage = () => {
           </div>
         </div> */}
 
-        {/* <div className="mt-6 p-4 bg-white px-6">
+      {/* <div className="mt-6 p-4 bg-white px-6">
           <div className="border-b pb-6">
             <h1 className="mt-2 mb-6 text-center text-xl">Featured works</h1>
             <div className="md:grid grid-cols-2 gap-6">
